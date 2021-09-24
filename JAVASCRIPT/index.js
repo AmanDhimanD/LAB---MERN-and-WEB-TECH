@@ -55,6 +55,6 @@
         var myCar = new car('o','McD',2021);
         console.log(myCar.year)
 
-
+ //DOM MANIPULATION ???
 
 
