@@ -1,0 +1,11 @@
+Methods
+~get -->2mb limit
+~post - no limit
+
+
+~ action load the page after submit
+~ DOM Diagram is IMPRT
+~ getElementById
+  getElementByTag
+  getElementsByClassName	
+
