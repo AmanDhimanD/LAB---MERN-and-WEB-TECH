@@ -1,0 +1,28 @@
+npm install express --save
+
+npm install nodemon
+
+in package .json 
+>in scriptadd 
+--->  "start": "nodemon index.js"
+
+// Create API
+    app.get('/',function(req,res){
+        res.send("Hello From server")
+    })
+
+// Send Request of HTML 
+// Request With HTML Pages
+
+// app.get('/',function(req,res){
+//     res.sendFile('register.html',{root:path.join(__dirname,'./assets')});
+// })
+
+
+// in post man app set the post and then paste the link after this get the result 
+localhost:3005
+
+
+Import link is 
+CodePile 
+to share the code 
