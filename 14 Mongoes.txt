@@ -1,0 +1,16 @@
+npm install cors  //for http request 
+npm install --save mongoose
+
+const mongoose = require('mongoose')
+const EmpSchema = new mongoose.Schema({
+	name:{
+		type : String;
+		required : true;
+		},
+	age:{
+		type : Number;
+		required : true;
+		}
+})
+
+const 
