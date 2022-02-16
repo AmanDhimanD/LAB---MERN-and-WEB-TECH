@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MyApp/static/css/main.7a973784.chunk.css",
+    "main.js": "/MyApp/static/js/main.73ad5fc1.chunk.js",
+    "main.js.map": "/MyApp/static/js/main.73ad5fc1.chunk.js.map",
+    "runtime~main.js": "/MyApp/static/js/runtime~main.277d1b58.js",
+    "runtime~main.js.map": "/MyApp/static/js/runtime~main.277d1b58.js.map",
+    "static/css/2.ad278b68.chunk.css": "/MyApp/static/css/2.ad278b68.chunk.css",
+    "static/js/2.52a85567.chunk.js": "/MyApp/static/js/2.52a85567.chunk.js",
+    "static/js/2.52a85567.chunk.js.map": "/MyApp/static/js/2.52a85567.chunk.js.map",
+    "index.html": "/MyApp/index.html",
+    "precache-manifest.e78c172e80bba3d2f644f10a1f1d09bb.js": "/MyApp/precache-manifest.e78c172e80bba3d2f644f10a1f1d09bb.js",
+    "service-worker.js": "/MyApp/service-worker.js",
+    "static/css/2.ad278b68.chunk.css.map": "/MyApp/static/css/2.ad278b68.chunk.css.map",
+    "static/css/main.7a973784.chunk.css.map": "/MyApp/static/css/main.7a973784.chunk.css.map",
+    "static/media/logo.png": "/MyApp/static/media/logo.f0e5959c.png"
+  }
+}
